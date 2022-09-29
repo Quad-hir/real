@@ -1,6 +1,6 @@
 /*
-› Create By Haikal
-› Base Ori Haikal
+› Create By Quadhir
+› Base Ori Dux
 
 🌷 KALAU MAU RENAME TARO CREDITS GUA : HW MODS WA */
 
@@ -165,7 +165,7 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `SUBSCRIBE DUX BOT MD`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -186,7 +186,7 @@ fileLength: 99999999999999,
 caption: he,
 contextInfo:{externalAdReply:{
 title: `Jangan Lupa Tersenyum ☺️`,
-body: `SUBSCRIBE HW MODS WA`,
+body: `SUBSCRIBE DUX BOT MD`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
